@@ -1,4 +1,4 @@
-### Housing Price Prediction
+# Housing Price Prediction
 
 A machine learning project focused on predicting house prices using a dataset that includes various features such as location, size, number of rooms, and more.
 
