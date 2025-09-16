@@ -43,50 +43,42 @@ Visualizations:
 
 Steps taken:
 
-Handled missing values
+- Handled missing values
 
-Transformed skewed features
+- Transformed skewed features
 
-One-hot encoded categorical variables
+- One-hot encoded categorical variables
 
-Standardized numerical features
+- Standardized numerical features
 
-Feature selection (if any)
+- Feature selection (if any)
 
-🤖 Model Building
+# Model Building
 
-Model(s) used: Linear Regression, Random Forest, XGBoost, etc.
+- Model(s) used: Linear Regression, Random Forest, XGBoost, etc.
 
-Train-test split: e.g., 80/20
+- Train-test split: e.g., 80/20
 
-Evaluation metrics: RMSE, MAE, R²
+- Evaluation metrics: RMSE, MAE, R²
 
-🧪 Best Model Performance:
 
-R² Score: 0.87
-
-RMSE: $24,000
-
-(Replace with your actual metrics)
-
-🔍 Feature Importance
+# Feature Importance
 
 Key drivers of housing price:
 
-Overall Quality
+- Overall Quality
 
-Total Square Feet
+- Total Square Feet
 
-Neighborhood
+- Neighborhood
 
-Garage Area
+- Garage Area
 
-Use plots (e.g., feature importance from tree-based models or coefficients from regression)
 
-🧠 Key Insights
+# Key Insights
 
-Neighborhood has a strong influence on price, even more than square footage.
+- Neighborhood has a strong influence on price, even more than square footage.
 
-House quality ratings correlate more strongly than raw size.
+- House quality ratings correlate more strongly than raw size.
 
-Some features like Pool Area have high variance but low predictive power.
+- Some features like Pool Area have high variance but low predictive power.
